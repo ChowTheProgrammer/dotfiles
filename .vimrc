@@ -67,6 +67,7 @@ set noerrorbells
 set shell=bash
 set fileformats=unix
 set ff=unix
+set pastetoggle=<F2>
 filetype on
 filetype indent on
 filetype plugin on

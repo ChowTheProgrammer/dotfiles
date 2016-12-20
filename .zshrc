@@ -138,7 +138,6 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # some handy aliases
-alias sshdata='ssh zhou267@data.cs.purdue.edu'
 alias c='clear'
 alias lo='logout'
 alias ..='cd ..'
